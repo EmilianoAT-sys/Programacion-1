@@ -7,6 +7,9 @@ import random
 import tkinter as tk
 
 ###################################################################
+"""
+Area donde se encuentras las variables del color del interfaz y la baraja
+"""
 COLOR_FONDO = "#0b6b34"        # Verde del "tapete"
 COLOR_TEXTO = "white"
 COLOR_BOTON = "#f4d03f"
