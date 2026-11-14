@@ -9,3 +9,5 @@ Programas incluidos
 BlackJack:
     Programa donde juegas el conocido juego "BlackJack" donde tienes que llegar a 21 o menos con la baraja inglesa
 
+SuperGato:
+    Un programa local (1 contra 1) donde se juega un especie de "SuperGato" donde cada seccion 3x3 de un gato trodicional tiene otro gato adentro
