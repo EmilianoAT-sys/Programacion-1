@@ -5,3 +5,12 @@ Nombre de los autores:Juan Pablo Salcido Valenzuela y Eduardo Emiliano Aguirre T
 Fecha:12/11/26
 """
 import tkinter as tk
+import numpy as np
+
+#Caracteristicas de la ventana del supergato
+ventana = tk.Tk()
+COLOR_VENTANA = "#1fAfff"
+ventana.config(bg=COLOR_VENTANA)
+ventana.geometry = (500,600)
+
+ventana.mainloop()
