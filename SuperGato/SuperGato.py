@@ -9,8 +9,13 @@ import numpy as np
 
 #Caracteristicas de la ventana del supergato  
 ventana = tk.Tk()
-COLOR_VENTANA = "#1fAfff"
+COLOR_VENTANA = "#1fAfa1"
 ventana.config(bg=COLOR_VENTANA)
-ventana.geometry = ("500x600")
+ventana.geometry("500x600")
+
+titulo = tk.Label(text="Ultimate Tic Tac Toe",
+                  bg = COLOR_VENTANA,
+                  font= ("arial", 15, "bold"))
+titulo.pack()
 
 ventana.mainloop()
